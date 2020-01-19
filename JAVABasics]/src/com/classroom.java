@@ -13,6 +13,7 @@ public class classroom {  ///
 		
 		classroom board=new classroom(); //for object
 		board.behaviour();
+		System.out.println("uyghkh");
 		
 	}
 
